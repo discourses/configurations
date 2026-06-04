@@ -1,0 +1,7 @@
+{
+  "parameters": "dissolved_from={starting}&dissolved_to={ending}&size={size}",
+  "state": "dissolved",
+  "starting": 1961,
+  "stopping": 1980,
+  "size": 5000
+}
