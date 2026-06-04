@@ -1,4 +1,5 @@
 {
+  "endpoint": "https://api.company-information.service.gov.uk/advanced-search/companies?",
   "parameters": "dissolved_from={starting}&dissolved_to={ending}&size={size}",
   "state": "dissolved",
   "starting": 1961,
