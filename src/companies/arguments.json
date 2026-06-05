@@ -3,6 +3,6 @@
   "parameters": "dissolved_from={starting}&dissolved_to={ending}&size={size}",
   "state": "dissolved",
   "starting": 1961,
-  "stopping": 1980,
+  "stopping": 1962,
   "size": 5000
 }
