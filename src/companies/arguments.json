@@ -2,7 +2,7 @@
   "endpoint": "https://api.company-information.service.gov.uk/advanced-search/companies?",
   "parameters": "dissolved_from={starting}&dissolved_to={ending}&size={size}",
   "state": "dissolved",
-  "starting": 1961,
-  "stopping": 1990,
+  "starting": 1991,
+  "stopping": 2026,
   "size": 5000
 }
