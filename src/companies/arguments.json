@@ -2,7 +2,7 @@
   "endpoint": "https://api.company-information.service.gov.uk/advanced-search/companies?",
   "parameters": "incorporated_from={starting}&incorporated_to={ending}&company_status=active&size={size}",
   "state": "active",
-  "starting": 1998,
+  "starting": 1996,
   "stopping": 2026,
   "size": 5000
 }
