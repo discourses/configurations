@@ -22,7 +22,7 @@
     "parameters": "incorporated_from={starting}&incorporated_to={ending}&company_status=active&size={size}",
     "state": "active",
     "starting": 1850,
-    "stopping": 1910,
+    "stopping": 2026,
     "size": 5000,
     "switch": 1960
   }
