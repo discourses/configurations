@@ -11,7 +11,7 @@
 * Standard Industrial Classification (SIC)
   * 2007.csv: Study [2026](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2026), [2007](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007), [Archive](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksicarchive)
 * Economic Sectors
-  * economy.csv
+  * economy.csv: Study (a) the [Office for National Statistics output publication](https://www.ons.gov.uk/economy/economicoutputandproductivity/output) (b) examples of major economic sectors categories [1](https://www.thoughtco.com/sectors-of-the-economy-1435795), [2](https://www.roiw.org/1987/359.pdf).
 
 
 <br>
