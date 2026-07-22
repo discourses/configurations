@@ -1,0 +1,17 @@
+series,description_series,section,category
+RPMZK4X,"agriculture, forestry and fishing industries",A,major
+RPMZK52,mining and quarrying industries,B,major
+RPMZK55,manufacturers,C,major
+RPMZK58,"electricity, gas and water suppliers",D|E,hybrid
+RPMZK5E,development of buildings,F,minor
+RPMZK5B,construction companies,F,major
+RPMZK5H,firms involved in wholesale and retail trade and repair,G,major
+RPMZK5K,hotels and restaurants,I,major
+RPMZK5N,"transport, storage, information and communication companies",H|J,hybrid
+RPMZK5T,"companies undertaking the buying, selling and renting of real estate",L,minor
+RPMZK5W,real estate and related activities on a fee or contract basis,L,minor
+RPMZK5Q,"firms involved in real estate, renting, computing or other business service activities",L,major
+RPMZK5Z,public administration and defence,O,major
+RPMZK64,education providers,P,major
+RPMZK67,health and social work organisations,Q,major
+RPMZK6A,"recreational, personal and community service organisations",R,major
