@@ -8,6 +8,12 @@
   * C1.2
 * [Companies House Constants](https://github.com/companieshouse/api-enumerations/blob/master/constants.yml)
   * codes: The intersection of **SIC (standard industrial classification) codes of constants** & [SIC 2007](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007)
+* Standard Industrial Classification
+  * [2026](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2026)
+  * [2007](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksic2007)
+  * [Archive](https://www.ons.gov.uk/methodology/classificationsandstandards/ukstandardindustrialclassificationofeconomicactivities/uksicarchive)
+
+
 <br>
 <br>
 
