@@ -1,5 +1,5 @@
 {
   "deflator": {
-    "path": "{external}/storage/measures/treasury/gdp-deflator.csv"
+    "path": "{bucket}/storage/measures/treasury/gdp-deflator.csv"
   }
 }
