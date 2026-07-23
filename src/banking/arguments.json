@@ -1,6 +1,5 @@
 {
   "deflator": {
-    "endpoint": "external",
-    "path": "storage/measures/treasury/gdp-deflator.csv"
+    "path": "{external}/storage/measures/treasury/gdp-deflator.csv"
   }
 }
