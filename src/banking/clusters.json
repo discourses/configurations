@@ -1,0 +1,5 @@
+{
+    "code": ["PRI", "PIP", "PB", "FIRE", "MRTG", "IC"],
+    "desc": ["Productive: Raw & Industrial", "Productive: IC & PST Services", "Productive: Bridging Services", "Finance, Insurance & Real Estate", "Mortgages", "Individual Credit"],
+    "cluster": [["RPMTBSC", "RPMTBSD", "RPMTBSE", "RPMTBSF", "RPMB3FO", "RPMTBSQ"],  ["RPMB5PS", "RPMB6PE"], ["RPMTBSR", "RPMTBSV", "RPMB5PL", "RPMB6PP", "RPMTBTD", "RPMTBTE", "RPMTBTF", "RPMB6H5"], ["RPMTBTI", "RPMB5H8", "RPMTBTT", "RPMTBSY"], ["LPMVTXH"], ["LPMBI2P"]]
+}
