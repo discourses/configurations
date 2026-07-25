@@ -23,7 +23,7 @@
     "LPMBI2P": "Individual credit",
     "LPMVTXH": "House purchase, remortgaging, etc."
   },
-  "clusters": {
+  "groupings": {
       "code": [
         "PRI",
         "PIP",
@@ -40,7 +40,7 @@
         "Mortgages",
         "Individual Credit"
       ],
-      "cluster": [
+      "group": [
         [
           "RPMTBSC",
           "RPMTBSD",

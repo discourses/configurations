@@ -33,7 +33,7 @@
     "RPMZK5V": "Buying, selling, and renting of own or leased estate",
     "RPMZK5Y": "Real estate and related activities on a fee or a contract basis"
   },
-  "clusters": {
+  "groupings": {
     "code": [
       "PRI",
       "SRV",
@@ -44,7 +44,7 @@
       "Economy: Services",
       "Real Estate"
     ],
-    "cluster": [
+    "group": [
       [
         "RPMZK4Z",
         "RPMZK54",
