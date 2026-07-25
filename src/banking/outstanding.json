@@ -1,54 +1,80 @@
 {
-  "code": [
-    "PRI",
-    "PIP",
-    "PB",
-    "FIRE",
-    "MRTG",
-    "IC"
-  ],
-  "desc": [
-    "Productive: Raw & Industrial",
-    "Productive: IC & PST Services",
-    "Productive: Bridging Services",
-    "Finance, Insurance & Real Estate",
-    "Mortgages",
-    "Individual Credit"
-  ],
-  "cluster": [
-    [
-      "RPMTBSC",
-      "RPMTBSD",
-      "RPMTBSE",
-      "RPMTBSF",
-      "RPMB3FO",
-      "RPMTBSQ"
-    ],
-    [
-      "RPMB5PS",
-      "RPMB6PE"
-    ],
-    [
-      "RPMTBSR",
-      "RPMTBSV",
-      "RPMB5PL",
-      "RPMB6PP",
-      "RPMTBTD",
-      "RPMTBTE",
-      "RPMTBTF",
-      "RPMB6H5"
-    ],
-    [
-      "RPMTBTI",
-      "RPMB5H8",
-      "RPMTBTT",
-      "RPMTBSY"
-    ],
-    [
-      "LPMVTXH"
-    ],
-    [
-      "LPMBI2P"
-    ]
-  ]
+  "metadata": {
+    "RPMTBSC": "Agriculture, hunting and forestry",
+    "RPMTBSD": "Fishing",
+    "RPMTBSE": "Mining and quarrying",
+    "RPMTBSF": "Manufacturing",
+    "RPMB3FO": "Electricity , gas and water supply",
+    "RPMTBSQ": "Construction",
+    "RPMTBSR": "Wholesale and retail trade",
+    "RPMTBSV": "Accommodation and food service activities",
+    "RPMB5PL": "Transportation & Storage",
+    "RPMB5PS": "Information & Communication",
+    "RPMB6PE": "Professional, scientific and technical activities",
+    "RPMB6PP": "Administrative and support services",
+    "RPMTBTD": "Public administration and defence",
+    "RPMTBTE": "Education",
+    "RPMTBTF": "Human health and social work",
+    "RPMB6H5": "Recreational, personal and community service activities",
+    "RPMTBTI": "Financial intermediation (excluding insurance and pension funds)",
+    "RPMB5H8": "Activities auxiliary to financial intermediation",
+    "RPMTBTT": "Insurance companies and pension funds",
+    "RPMTBSY": "Buying, selling and renting of real estate",
+    "LPMBI2P": "Individual credit",
+    "LPMVTXH": "House purchase, remortgaging, etc."
+  },
+  "clusters": {
+      "code": [
+        "PRI",
+        "PIP",
+        "PB",
+        "FIRE",
+        "MRTG",
+        "IC"
+      ],
+      "desc": [
+        "Productive: Raw & Industrial",
+        "Productive: IC & PST Services",
+        "Productive: Bridging Services",
+        "Finance, Insurance & Real Estate",
+        "Mortgages",
+        "Individual Credit"
+      ],
+      "cluster": [
+        [
+          "RPMTBSC",
+          "RPMTBSD",
+          "RPMTBSE",
+          "RPMTBSF",
+          "RPMB3FO",
+          "RPMTBSQ"
+        ],
+        [
+          "RPMB5PS",
+          "RPMB6PE"
+        ],
+        [
+          "RPMTBSR",
+          "RPMTBSV",
+          "RPMB5PL",
+          "RPMB6PP",
+          "RPMTBTD",
+          "RPMTBTE",
+          "RPMTBTF",
+          "RPMB6H5"
+        ],
+        [
+          "RPMTBTI",
+          "RPMB5H8",
+          "RPMTBTT",
+          "RPMTBSY"
+        ],
+        [
+          "LPMVTXH"
+        ],
+        [
+          "LPMBI2P"
+        ]
+      ]
+    }
 }
