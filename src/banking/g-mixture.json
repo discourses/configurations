@@ -37,7 +37,7 @@
     "LPMVTUZ": "Assets (House purchase, re-mortgaging, etc.)",
     "LPMB3PV": "Individual (Credit card, etc.)"
   },
-  "clusters": {
+  "groupings": {
     "code": [
       "PRI",
       "SRV",
@@ -52,7 +52,7 @@
       "Mortgages",
       "Individual Credit"
     ],
-    "cluster": [
+    "group": [
       [
         "RPMZK4X",
         "RPMZK52",
