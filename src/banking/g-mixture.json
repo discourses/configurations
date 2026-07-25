@@ -1,0 +1,85 @@
+{
+  "EC": [
+    "RPMZK4X",
+    "RPMZK52",
+    "RPMZK55",
+    "RPMZK58",
+    "RPMZK5B",
+    "RPMZK5H",
+    "RPMZK5K",
+    "RPMZK5N",
+    "RPMZK5Z",
+    "RPMZK64",
+    "RPMZK67",
+    "RPMZK6A",
+    "RPMZK5T",
+    "RPMZK5W",
+    "RPMZK5Q",
+    "LPMVTUZ",
+    "LPMB3PV"
+  ],
+  "descriptions": {
+    "RPMZK4X": "Agriculture, hunting, forestry, and fishing",
+    "RPMZK52": "Mining & Quarrying",
+    "RPMZK55": "Manufacturing",
+    "RPMZK58": "Electricity, gas, and water supply",
+    "RPMZK5B": "Construction",
+    "RPMZK5H": "Wholesale and retail trade",
+    "RPMZK5K": "Accommodation and food service activities",
+    "RPMZK5N": "Transport, storage, and communication",
+    "XRPMZKP": "Professional, and other business, services activities",
+    "RPMZK5Z": "Public administration and defence",
+    "RPMZK64": "Education",
+    "RPMZK67": "Human health and social work",
+    "RPMZK6A": "Recreational, personal, and community service activities",
+    "RPMZK5T": "Buying, selling, and renting of own or leased estate",
+    "RPMZK5W": "Real estate and related activities on a fee or a contract basis",
+    "LPMVTUZ": "Assets (House purchase, re-mortgaging, etc.)",
+    "LPMB3PV": "Individual (Credit card, etc.)"
+  },
+  "clusters": {
+    "code": [
+      "PRI",
+      "SRV",
+      "RE",
+      "MRTG",
+      "IC"
+    ],
+    "desc": [
+      "Economy: Raw & Industrial",
+      "Economy: Services",
+      "Real Estate",
+      "Mortgages",
+      "Individual Credit"
+    ],
+    "cluster": [
+      [
+        "RPMZK4X",
+        "RPMZK52",
+        "RPMZK55",
+        "RPMZK58",
+        "RPMZK5B"
+      ],
+      [
+        "RPMZK5H",
+        "RPMZK5K",
+        "RPMZK5N",
+        "XRPMZKP",
+        "RPMZK5Z",
+        "RPMZK64",
+        "RPMZK67",
+        "RPMZK6A"
+      ],
+      [
+        "RPMZK5T",
+        "RPMZK5W"
+      ],
+      [
+        "LPMVTUZ"
+      ],
+      [
+        "LPMB3PV"
+      ]
+    ]
+  }
+}

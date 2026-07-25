@@ -1,0 +1,71 @@
+{
+  "EC": [
+    "RPMZK4Z",
+    "RPMZK54",
+    "RPMZK57",
+    "RPMZK5A",
+    "RPMZK5D",
+    "RPMZK5J",
+    "RPMZK5M",
+    "RPMZK5P",
+    "RPMZK63",
+    "RPMZK66",
+    "RPMZK69",
+    "RPMZK6C",
+    "RPMZK5V",
+    "RPMZK5Y",
+    "RPMZK5S"
+  ],
+  "descriptions": {
+    "RPMZK4Z": "Agriculture, hunting, forestry, and fishing",
+    "RPMZK54": "Mining & Quarrying",
+    "RPMZK57": "Manufacturing",
+    "RPMZK5A": "Electricity, gas, and water supply",
+    "RPMZK5D": "Construction",
+    "RPMZK5J": "Wholesale and retail trade",
+    "RPMZK5M": "Accommodation and food service activities",
+    "RPMZK5P": "Transport, storage, and communication",
+    "ZRPMZKP": "Professional, and other business, services activities",
+    "RPMZK63": "Public administration and defence",
+    "RPMZK66": "Education",
+    "RPMZK69": "Human health and social work",
+    "RPMZK6C": "Recreational, personal, and community service activities",
+    "RPMZK5V": "Buying, selling, and renting of own or leased estate",
+    "RPMZK5Y": "Real estate and related activities on a fee or a contract basis"
+  },
+  "clusters": {
+    "code": [
+      "PRI",
+      "SRV",
+      "RE"
+    ],
+    "desc": [
+      "Economy: Raw & Industrial",
+      "Economy: Services",
+      "Real Estate"
+    ],
+    "cluster": [
+      [
+        "RPMZK4Z",
+        "RPMZK54",
+        "RPMZK57",
+        "RPMZK5A",
+        "RPMZK5D"
+      ],
+      [
+        "RPMZK5J",
+        "RPMZK5M",
+        "RPMZK5P",
+        "ZRPMZKP",
+        "RPMZK63",
+        "RPMZK66",
+        "RPMZK69",
+        "RPMZK6C"
+      ],
+      [
+        "RPMZK5V",
+        "RPMZK5Y"
+      ]
+    ]
+  }
+}

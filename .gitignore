@@ -10,3 +10,6 @@ output
 
 # Integrated Development Environment
 .idea
+
+# Exclude
+script.sh
