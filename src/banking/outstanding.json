@@ -26,16 +26,16 @@
   "groupings": {
       "code": [
         "PRI",
-        "PIP",
-        "PB",
+        "HIP",
+        "HB",
         "FIRE",
         "MRTG",
         "IC"
       ],
       "desc": [
         "Productive: Raw & Industrial",
-        "Productive: IC & PST Services",
-        "Productive: Bridging Services",
+        "Hybrid: IC & PST Services",
+        "Hybrid: Bridging Services",
         "Finance, Insurance & Real Estate",
         "Mortgages",
         "Individual Credit"
