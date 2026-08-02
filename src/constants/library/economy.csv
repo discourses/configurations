@@ -5,18 +5,18 @@ C,Manufacturing,production,secondary,productive,PRI,Industrial,Productive: Raw &
 D,"Electricity, gas, steam and air conditioning supply",production,secondary,productive,PRI,Industrial,Productive: Raw & Industrial 
 E,"Water supply; sewerage, waste management and remediation activities",production,secondary,productive,PRI,Industrial,Productive: Raw & Industrial 
 F,Construction,construction,secondary,productive,PRI,Industrial,Productive: Raw & Industrial 
-G,Wholesale and retail trade; repair of motor vehicles and motorcycles,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-H,Transportation and storage,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-I,Accommodation and food service activities,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-J,Information and communication,services,tertiary,adjacent,PIP,IC & PST,Productive: IC & PST Services 
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+H,Transportation and storage,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+I,Accommodation and food service activities,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+J,Information and communication,services,tertiary,hybrid,HIP,IC & PST,Hybrid: IC & PST Services 
 K,Financial and insurance activities,services,tertiary,FIRE,FIRE,FIRE,"Finance, Insurance & Real Estate "
 L,Real estate activities,services,tertiary,FIRE,FIRE,FIRE,"Finance, Insurance & Real Estate "
-M,"Professional, scientific and technical activities",services,tertiary,adjacent,PIP,IC & PST,Productive: IC & PST Services 
-N,Administrative and support service activities,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-O,Public administration and defence; compulsory social security,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-P,Education,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-Q,Human health and social work activities,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-R,"Arts, entertainment and recreation",services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-S,Other service activities,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-T,Activities of households as employers; undifferentiated goods-producing and services-producing activities of households for own use,services,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
-U,Activities of extraterritorial organisations and bodies | dormant companies,outlier,tertiary,adjacent,PB,Bridging,Productive: Bridging Services 
+M,"Professional, scientific and technical activities",services,tertiary,hybrid,HIP,IC & PST,Hybrid: IC & PST Services 
+N,Administrative and support service activities,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+O,Public administration and defence; compulsory social security,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+P,Education,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+Q,Human health and social work activities,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+R,"Arts, entertainment and recreation",services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+S,Other service activities,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+T,Activities of households as employers; undifferentiated goods-producing and services-producing activities of households for own use,services,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
+U,Activities of extraterritorial organisations and bodies | dormant companies,outlier,tertiary,hybrid,HB,Bridging,Hybrid: Bridging Services 
